@@ -10,8 +10,8 @@ Cars CoreML Model is a training model used to predict valuation of cars for trad
 To build the `.mlmodel` CoreML file for use in your project, run the following commands.
 
 ```
-git clone https://github.com/ruchern/cars-coreml-demo
-python convert_cars.py
+$ git clone https://github.com/ruchern/cars-coreml-demo
+$ python convert_cars.py
 ```
 
 After the command is being run, a file named `Cars.mlmodel` should be generated in the same folder for your usage.
